@@ -1,0 +1,14 @@
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\bin\Debug\net8.0\Desafiolacoex01.exe
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\bin\Debug\net8.0\Desafiolacoex01.deps.json
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\bin\Debug\net8.0\Desafiolacoex01.runtimeconfig.json
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\bin\Debug\net8.0\Desafiolacoex01.dll
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\bin\Debug\net8.0\Desafiolacoex01.pdb
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\Desafiolacoex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\Desafiolacoex01.AssemblyInfoInputs.cache
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\Desafiolacoex01.AssemblyInfo.cs
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\Desafiolacoex01.csproj.CoreCompileInputs.cache
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\Desafiolacoex01.dll
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\refint\Desafiolacoex01.dll
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\Desafiolacoex01.pdb
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\Desafiolacoex01.genruntimeconfig.cache
+C:\Users\50526653850\Desktop\Aula-Back-End\Desafiolacoex01\obj\Debug\net8.0\ref\Desafiolacoex01.dll
