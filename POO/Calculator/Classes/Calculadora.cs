@@ -12,22 +12,27 @@ namespace Calculator.Classes
     
 
 
-    public void Somar()
+    public void Somar(float num01, float num02)
     {
-        numero1 = numero1 + numero2;
+        float resultado = num01 + num02;
+        Console.WriteLine($"Seu resultado e : {resultado}");
+        
     }
 
-    public void Subtrair()
+    public void Subtrair(float num01, float num02)
     {
-        numero1 = numero1 - numero2;
+        float resultado = num01 - num02;
+        Console.WriteLine($"Seu resultado e : {resultado}");
     }
-    public void Multiplicar()
+    public void Multiplicar(float num01, float num02)
     {
-        numero1 = numero1 * numero2;
+       float resultado = num01 * num02;
+        Console.WriteLine($"Seu resultado e : {resultado}");
     }
-    public void Divisao()
+    public void Divisao(loat num01, float num02)
     {
-        numero1 = numero1 / numero2;
+        float resultado = num01 / num02;
+        Console.WriteLine($"Seu resultado e : {resultado}");
     }
 }
 }
